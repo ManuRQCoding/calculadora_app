@@ -1,16 +1,12 @@
 # calculadora_app
 
-A new Flutter project.
+### Calculadora con diseño inspirado en una calculadora casio
 
-## Getting Started
+**Importante**
+- Las operaciones han sido realizadas sin uso de librerias, lo que facilitaría completamente el trabajo
+- La calculadora no es completamente funcional, algunos botones están ahí por cuestión de diseño
+- Es visible tanto en web como en móvil, siendo una aplicación responsive
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Si deseas ver su funcionamiento:**
+📹Web: https://youtu.be/wUL9w40SH0I
+📹Móvil: https://youtu.be/JyDRcX8lpOw
